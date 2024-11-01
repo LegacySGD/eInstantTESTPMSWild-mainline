@@ -1,0 +1,5 @@
+<ClientConfig>
+	<GameClient name="Money Strike WLA" clientCode="mobile" technology="HTML" height="600" width="800" meterheight="0" meterwidth="10" gameFolder="MoneyStrike" enableFreeSpin="Y" clientversion="1.0" gameId="300-2240-0" />
+	<GameClient name="Money Strike WLA" clientCode="tablet" technology="HTML" height="600" width="800" meterheight="0" meterwidth="10" gameFolder="MoneyStrike" enableFreeSpin="Y" clientversion="1.0" gameId="300-2240-0" />
+	<GameClient name="Money Strike WLA" clientCode="desktop" technology="HTML" height="600" width="800" meterheight="0" meterwidth="10" gameFolder="MoneyStrike" enableFreeSpin="Y" clientversion="1.0" gameId="300-2240-0" />
+</ClientConfig>

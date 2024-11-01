@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+    <family code="2240" desc="Lottery Game" studio="interactive" organizationName="Interactive">
+        <!-- -  For spot supported games: spots are colon separated string like 1:2:3:4:5.Otherwise left blank -->
+        <game name="Money Strike WLA" version="1.0.0" gameengineversion="2" gamelogicversion="1.0"
+              number="0"
+              jackpotid=""
+              gametype="L"
+              loadprevstate="N"
+              numberGenerator="RNG"
+              betMultipliers="25,50,100,200,300,500,1000,2000,5000,10000"
+              spots=""
+              productId="1"
+              gamegroup="eGames"
+              languages="en,en_US,en_NZ,pt_BR"
+              skbPlatformVersion="1.4.0"
+              merchandisePrize="N"
+              stateful="N">
+
+            <!-- ZER -->
+            <!-- <paymodel modelid="300-2240-099"  revealId="2240" revealVersionId="2240"
+                      confidentlevelpct="95" maxmainbetwin="0" maxsidebetwin="0"
+                      mincoins="0" cointhreshold="0"
+                      name="Money Strike WLA : 300-2240-099"
+                      hibethold="35.00" lobethold="31.00"
+                      hibetsd="3.641" lobetsd="3.641" fixedminmax="Y" maxcoins="500"/>
+
+            <paymodelConfig modelid="300-2240-099" clienttype="HTML" configcode="IXML"/>
+            <paymodelConfig modelid="300-2240-099" clienttype="HTML" configcode="PHLP"/>     -->
+            
+            <!-- RGS COM -->
+            <!-- <paymodel modelid="300-2240-001"  revealId="2240" revealVersionId="2240"
+                      confidentlevelpct="95" maxmainbetwin="0" maxsidebetwin="0"
+                      mincoins="0" cointhreshold="0"
+                      name="Money Strike WLA : 300-2240-001"
+                      hibethold="35.00" lobethold="31.00"
+                      hibetsd="3.641" lobetsd="3.641" fixedminmax="Y" maxcoins="500"/>
+
+            <paymodelConfig modelid="300-2240-001" clienttype="HTML" configcode="IXML"/>
+            <paymodelConfig modelid="300-2240-001" clienttype="HTML" configcode="PHLP"/>  -->
+
+            <!-- LNZ -->
+            <!-- <paymodel modelid="300-2240-002"  revealId="2240" revealVersionId="2240"
+                      confidentlevelpct="95" maxmainbetwin="0" maxsidebetwin="0"
+                      mincoins="0" cointhreshold="0"
+                      name="Money Strike WLA : 300-2240-002"
+                      hibethold="35.00" lobethold="31.00"
+                      hibetsd="3.641" lobetsd="3.641" fixedminmax="Y" maxcoins="500"/>
+
+            <paymodelConfig modelid="300-2240-002" clienttype="HTML" configcode="IXML"/>
+            <paymodelConfig modelid="300-2240-002" clienttype="HTML" configcode="PHLP"/> -->
+
+            <!-- BRZ -->
+            <!-- <paymodel modelid="300-2240-003"  revealId="2240" revealVersionId="2240"
+                      confidentlevelpct="95" maxmainbetwin="0" maxsidebetwin="0"
+                      mincoins="0" cointhreshold="0"
+                      name="Money Strike WLA : 300-2240-003"
+                      hibethold="35.00" lobethold="31.00"
+                      hibetsd="3.641" lobetsd="3.641" fixedminmax="Y" maxcoins="500"/>
+
+            <paymodelConfig modelid="300-2240-003" clienttype="HTML" configcode="IXML"/>
+            <paymodelConfig modelid="300-2240-003" clienttype="HTML" configcode="PHLP"/> -->
+
+            <!-- GA -->
+            <paymodel modelid="300-2240-004"  revealId="4338" revealVersionId="4332"
+                      confidentlevelpct="95" maxmainbetwin="0" maxsidebetwin="0"
+                      mincoins="0" cointhreshold="0"
+                      name="Money Strike WLA : 300-2240-004"
+                      hibethold="22.00" lobethold="22.00"
+                      hibetsd="3.641" lobetsd="3.641" fixedminmax="Y" maxcoins="500"/>
+
+            <paymodelConfig modelid="300-2240-004" clienttype="HTML" configcode="IXML"/>
+            <paymodelConfig modelid="300-2240-004" clienttype="HTML" configcode="PHLP"/>
+
+            <!-- KY -->
+            <paymodel modelid="300-2240-005"  revealId="4338" revealVersionId="4332"
+                      confidentlevelpct="95" maxmainbetwin="0" maxsidebetwin="0"
+                      mincoins="0" cointhreshold="0"
+                      name="Money Strike WLA : 300-2240-005"
+                      hibethold="35.00" lobethold="31.00"
+                      hibetsd="3.641" lobetsd="3.641" fixedminmax="Y" maxcoins="500"/>
+
+            <paymodelConfig modelid="300-2240-005" clienttype="HTML" configcode="IXML"/>
+            <paymodelConfig modelid="300-2240-005" clienttype="HTML" configcode="PHLP"/>
+
+            <!-- RI -->
+            <paymodel modelid="300-2240-006"  revealId="4338" revealVersionId="4332"
+                      confidentlevelpct="95" maxmainbetwin="0" maxsidebetwin="0"
+                      mincoins="0" cointhreshold="0"
+                      name="Money Strike WLA : 300-2240-006"
+                      hibethold="30.00" lobethold="27.00"
+                      hibetsd="3.641" lobetsd="3.641" fixedminmax="Y" maxcoins="500"/>
+
+            <paymodelConfig modelid="300-2240-006" clienttype="HTML" configcode="IXML"/>
+            <paymodelConfig modelid="300-2240-006" clienttype="HTML" configcode="PHLP"/>
+
+            <denom currencycode="BRL" amount="0.01,0.03"/>
+            <denom currencycode="NZD" amount="0.01,0.02"/>
+            <denom currencycode="USD" amount="0.01,0.02"/>
+        </game>
+    </family>
